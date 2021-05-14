@@ -16,7 +16,6 @@ You Can Install This Tools Using 2 ways :
 $ git clone https://github.com/imyhacker-repo/MCHECKER
 $ cd MCHECKER
 $ php index {license}
-
 ```
 
 ### 2. Using Composer (Recommended)
@@ -25,7 +24,6 @@ $ php index {license}
 $ composer create-project arikun/mchecker -s dev
 $ cd mchecker
 $ php index {license}
-
 ```
 ## How To Use ? 
 
