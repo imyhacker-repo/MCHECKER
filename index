@@ -1,0 +1,18 @@
+#!/usr/bin/env php
+
+<?php 
+/*
+ ============ {IndoSec Framework} =============
+	Coded By Arikun - IndoSec
+	Tools : MChecker (MAIL CHECKER PREMIUM)
+	Copyrigt (C) 2021 - Rii Hax0r
+ 
+	Note: 
+	If This Tools Not Work With 
+	php index {license}, rename this file 
+	(index) to (index.php) and 
+	run php index.php {license}
+ ============ {IndoSec Framework} =============
+*/
+${"G\x4cO\x42A\x4cS"}["\x61\x72\x73\x77\x6e\x76"]="\x6bey";include"\x2e/s\x65\x72\x76\x65\x72/co\x6e\x66ig.\x70hp";error_reporting(0);if(is_null($argv[1])){clear();banner();echo"\x54o U\x73e\x20:\x20php i\x6e\x64\x65\x78\x20{\x6c\x69c\x65n\x73\x65}\n\n";}elseif(!is_null($argv[1])){${"GL\x4fBAL\x53"}["\x6ah\x78\x70\x67o\x69\x63\x6fhr"]="k\x65\x79";${${"\x47\x4c\x4fB\x41\x4cS"}["\x61rs\x77\x6e\x76"]}=$argv[1];cek_key(${${"\x47\x4cO\x42\x41\x4cS"}["jh\x78\x70\x67o\x69\x63\x6f\x68\x72"]});}
+?>
