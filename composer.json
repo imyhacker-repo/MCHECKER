@@ -2,6 +2,7 @@
     "name": "arikun/mchecker",
     "description": "Mail Checker Premium With License",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "arikun",
