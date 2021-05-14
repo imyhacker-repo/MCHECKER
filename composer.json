@@ -1,0 +1,15 @@
+{
+    "name": "arikun/mchecker",
+    "description": "Mail Checker Premium With License",
+    "type": "project",
+    "authors": [
+        {
+            "name": "arikun",
+            "email": "riihaxor@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^5.0|^7.3|^8.0"
+    }
+}
